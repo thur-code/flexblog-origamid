@@ -1,6 +1,6 @@
 # 📰 FlexBlog – Curso Origamid
 
-Projeto desenvolvido como parte do curso **[HTML e CSS para Iniciantes](https://www.origamid.com/curso/css-flexbox/)** da Origamid.  
+Projeto desenvolvido como parte do curso **[CSS Flexbox](https://www.origamid.com/curso/css-flexbox/)** da Origamid.  
 O **FlexBlog** é um site de página única (single page) que serviu para aplicar praticamente todas as propriedades do Flexbox aprendidas no curso.
 
 ---
