@@ -25,9 +25,23 @@ O **FlexBlog** é um site de página única (single page) que serviu para aplica
 
 Durante o projeto foram aplicados:
 
-- **Fundamentos do Flexbox**: `display: flex`, `flex-direction`, `flex-wrap`, `flex-flow`  
-- **Alinhamento e distribuição de espaço**: `justify-content`, `align-items`, `align-content`  
-- **Propriedades de flex items**: `flex-grow`, `flex-basis`, `flex-shrink`, `order`, `align-self`  
+🔹 **Fundamentos do Flexbox**: 
+- `display: flex`,
+- `flex-direction`,
+- `flex-wrap`,
+- `flex-flow`
+  
+🔹 **Alinhamento e distribuição de espaço**: 
+- `justify-content`,
+- `align-items`,
+- `align-content`
+  
+🔹 **Propriedades de flex items**: 
+- `flex-grow`,
+- `flex-basis`,
+- `flex-shrink`,
+- `order`,
+- `align-self`  
 
 ---
 
